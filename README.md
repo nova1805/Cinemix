@@ -1,4 +1,4 @@
-# Movix
+# Cinemix
 
 ## Project Overview
 
