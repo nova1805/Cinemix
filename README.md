@@ -20,7 +20,7 @@ Cinemix is aimed at developing an interactive and visually appealing web applica
 
 ## Getting Started
 
-To get started with your Movix project, follow these steps:
+To get started with your Cinemix project, follow these steps:
 
 1. Set up a new React.js project using your preferred development environment.
 2. Install necessary dependencies, including Redux and SCSS.
@@ -42,4 +42,4 @@ Additionally, online tutorials, blogs, and forums related to React.js, Redux, an
 
 ## Conclusion
 
-The Movix personal project is an exciting opportunity for you to apply your knowledge of React.js, Redux, and SCSS to build an interactive and visually appealing movie recommendation web application. By mastering the key concepts and features of these technologies, you will be able to create engaging user experiences and enhance your skills as a web developer. Good luck with your project!
+The Cinemix personal project is an exciting opportunity for you to apply your knowledge of React.js, Redux, and SCSS to build an interactive and visually appealing movie recommendation web application. By mastering the key concepts and features of these technologies, you will be able to create engaging user experiences and enhance your skills as a web developer. Good luck with your project!
